@@ -1,2 +1,2 @@
-dist/* linguist-vendor
-todo.js linguist-vendor
+dist/* linguist-vendored
+todo.js linguist-vendored
